@@ -1,4 +1,4 @@
-## A simple personal blod website
+## A simple personal blog website
 
 Create with [Github Pages](https://pages.github.com/) and [Contrast Jekyll theme](https://github.com/niklasbuschmann/contrast).
 
